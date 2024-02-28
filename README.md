@@ -1,2 +1,2 @@
 # postgres_FastAPI
-===pip install fastapi===
+pip install fastap
